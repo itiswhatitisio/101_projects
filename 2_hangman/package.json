@@ -1,0 +1,15 @@
+{
+  "name": "2_hangman",
+  "version": "1.0.0",
+  "description": "Hangman is a word-guessing game where players aim to deduce a hidden word by guessing one letter at a time. After six incorrect attempts the player loses.",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
